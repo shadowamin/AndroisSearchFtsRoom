@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search_Room_FTS4</string>
+    <string name="news_title_bar">News</string>
+    <string name="menu_item_search">Search</string>
+</resources>
