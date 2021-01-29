@@ -66,8 +66,6 @@ class MainFragment : Fragment() {
                 return true
             }
         })
-
-
     }
 
     private fun addMenuItemListener(menuItem: MenuItem){
